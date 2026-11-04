@@ -1,6 +1,6 @@
 # Izvori za Čitač vesti
 
-Lista RSS izvora koju koristi Čitač vesti, pristupačan čitač vesti za slepe i slabovide korisnike iz Srbije, Hrvatske, Bosne i Hercegovine i Crne Gore.
+Lista RSS izvora koju koristi Čitač vesti, pristupačan čitač vesti za slepe i slabovide korisnike sa prostora bivše Jugoslavije: Srbija, Hrvatska, Bosna i Hercegovina, Crna Gora, Slovenija i Severna Makedonija.
 
 Aplikacija pri pokretanju preuzima [`sources.json`](sources.json) iz ovog repozitorijuma. Kada se ovde ispravi pokvaren feed ili doda novi medij, svi korisnici dobijaju izmenu bez nove verzije aplikacije.
 

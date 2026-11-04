@@ -1,11 +1,13 @@
 {
   "format": 1,
-  "version": 2026110401,
+  "version": 2026110402,
   "countries": [
     {"id":"RS","name":"Srbija","genitive":"Srbije"},
     {"id":"HR","name":"Hrvatska","genitive":"Hrvatske"},
     {"id":"BA","name":"Bosna i Hercegovina","genitive":"Bosne i Hercegovine"},
-    {"id":"ME","name":"Crna Gora","genitive":"Crne Gore"}
+    {"id":"ME","name":"Crna Gora","genitive":"Crne Gore"},
+    {"id":"SI","name":"Slovenija","genitive":"Slovenije"},
+    {"id":"MK","name":"Severna Makedonija","genitive":"Severne Makedonije"}
   ],
   "sources": [
     {"id":"rs-021","country":"RS","name":"021.rs","url":"https://www.021.rs/rss/all"},
@@ -64,6 +66,33 @@
     {"id":"me-pobjeda","country":"ME","name":"Pobjeda","url":"https://rss.pobjeda.me/"},
     {"id":"me-analitika","country":"ME","name":"Portal Analitika","url":"https://rss.portalanalitika.me/"},
     {"id":"me-rtcg","country":"ME","name":"RTCG","url":"https://rtcg.me/vijesti/rss.html"},
-    {"id":"me-vijesti","country":"ME","name":"Vijesti","url":"https://www.vijesti.me/rss"}
+    {"id":"me-vijesti","country":"ME","name":"Vijesti","url":"https://www.vijesti.me/rss"},
+    {"id":"si-24ur","country":"SI","name":"24ur","url":"https://www.24ur.com/rss"},
+    {"id":"si-delo","country":"SI","name":"Delo","url":"https://www.delo.si/rss"},
+    {"id":"si-dnevnik","country":"SI","name":"Dnevnik","url":"https://www.dnevnik.si/rss.xml"},
+    {"id":"si-mladina","country":"SI","name":"Mladina","url":"https://www.mladina.si/media/rss/rss-fb-mladina.xml"},
+    {"id":"si-n1","country":"SI","name":"N1 Slovenija","url":"https://n1info.si/feed/"},
+    {"id":"si-nova24tv","country":"SI","name":"Nova24TV","url":"https://nova24tv.si/feed/"},
+    {"id":"si-rtvslo","country":"SI","name":"RTV SLO","url":"https://img.rtvslo.si/feeds/00.xml"},
+    {"id":"si-siol","country":"SI","name":"Siol","url":"https://siol.net/feeds/latest"},
+    {"id":"si-slovenskenovice","country":"SI","name":"Slovenske novice","url":"https://slovenskenovice.delo.si/rss"},
+    {"id":"si-vecer","country":"SI","name":"Večer","url":"https://vecer.com/feed/allarticles"},
+    {"id":"si-zurnal24","country":"SI","name":"Žurnal24","url":"https://www.zurnal24.si/feeds/latest"},
+    {"id":"mk-360stepeni","country":"MK","name":"360 степени","url":"https://360stepeni.mk/feed/"},
+    {"id":"mk-a1on","country":"MK","name":"А1он","url":"https://a1on.mk/feed/"},
+    {"id":"mk-kurir","country":"MK","name":"Курир","url":"https://kurir.mk/feed/"},
+    {"id":"mk-libertas","country":"MK","name":"Либертас","url":"https://libertas.mk/feed/"},
+    {"id":"mk-makfax","country":"MK","name":"Макфакс","url":"https://makfax.com.mk/feed/"},
+    {"id":"mk-meta","country":"MK","name":"Мета","url":"https://meta.mk/feed/"},
+    {"id":"mk-mkd","country":"MK","name":"МКД","url":"https://mkd.mk/feed/"},
+    {"id":"mk-nezavisen","country":"MK","name":"Независен","url":"https://nezavisen.mk/feed/"},
+    {"id":"mk-novamakedonija","country":"MK","name":"Нова Македонија","url":"https://novamakedonija.com.mk/feed/"},
+    {"id":"mk-plusinfo","country":"MK","name":"Плусинфо","url":"https://plusinfo.mk/feed/"},
+    {"id":"mk-radiomof","country":"MK","name":"Радио МОФ","url":"https://www.radiomof.mk/feed/"},
+    {"id":"mk-republika","country":"MK","name":"Република","url":"https://republika.mk/feed/"},
+    {"id":"mk-sdk","country":"MK","name":"СДК","url":"https://sdk.mk/index.php/mk/feed/"},
+    {"id":"mk-sitel","country":"MK","name":"Сител","url":"https://sitel.com.mk/rss.xml"},
+    {"id":"mk-telma","country":"MK","name":"Телма","url":"https://telma.com.mk/feed/"},
+    {"id":"mk-fokus","country":"MK","name":"Фокус","url":"https://fokus.mk/feed/"}
   ]
 }
