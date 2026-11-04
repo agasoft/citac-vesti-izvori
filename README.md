@@ -20,3 +20,7 @@ Aplikacija odbacuje celu listu ako nešto nije u redu: nepoznata zemlja, ponovlj
 ## Predlozi
 
 Ako znate medij iz regiona koji ima RSS feed, otvorite issue sa nazivom medija i adresom feeda.
+
+## Politika privatnosti
+
+Politika privatnosti aplikacije je u [PRIVACY.md](PRIVACY.md).
