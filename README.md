@@ -24,3 +24,7 @@ Ako znate medij iz regiona koji ima RSS feed, otvorite issue sa nazivom medija i
 ## Politika privatnosti
 
 Politika privatnosti aplikacije je u [PRIVACY.md](PRIVACY.md).
+
+## Kontakt
+
+Kontakt izdavača aplikacije je u [KONTAKT.md](KONTAKT.md).
