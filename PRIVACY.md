@@ -2,7 +2,7 @@
 
 **Aplikacija: Čitač vesti (News Reader), za Windows i Android**
 
-Poslednja izmena: 8. novembar 2026.
+Poslednja izmena: 10. novembar 2026.
 
 ## Srpski
 
@@ -19,7 +19,7 @@ Poslednja izmena: 8. novembar 2026.
 - **GitHub** (raw.githubusercontent.com): preuzima javnu listu izvora da bi ispravke feedova stizale bez nove verzije aplikacije.
 - **Open-Meteo** (open-meteo.com), samo na Windowsu i samo ako ste izabrali grad: šalje koordinate grada da bi dobila trenutnu temperaturu, i naziv grada dok ga tražite u podešavanjima.
 - **Servis za AI rezime**, samo na Windowsu i samo ako ga sami podesite i zatražite rezime: Google Gemini, Groq, OpenAI, DeepSeek ili Anthropic Claude, sa vašim ključem. Šalju se samo naslovi i prve rečenice do 30 vesti iz trenutnog prikaza, nikakvi podaci o vama. Na ovaj zahtev se primenjuju uslovi izabranog servisa; aplikacija za svaki servis navodi kako on koristi podatke. Na primer, Google na besplatnom nivou može da koristi poslate tekstove za poboljšanje svojih proizvoda, a DeepSeek obrađuje podatke na serverima u Kini.
-- **Google obrazac (Google Forms)**, samo na Androidu i samo kada sami predložite novi izvor ili prijavite neispravan: šalje se ono što ste upisali (vrsta prijave, naziv izvora, adresa, zemlja i vaša napomena) i verzija aplikacije. Ne šalju se nikakvi podaci o vama, a obrazac ne prikuplja imejl adrese.
+- **Google obrazac (Google Forms)**, samo kada sami predložite novi izvor ili prijavite neispravan: šalje se ono što ste upisali (vrsta prijave, naziv izvora, adresa, zemlja i vaša napomena) i verzija aplikacije. Ne šalju se nikakvi podaci o vama, a obrazac ne prikuplja imejl adrese.
 
 **Android: osvežavanje u pozadini i obaveštenja**
 
@@ -44,7 +44,7 @@ Linkovi iz vesti i dugme „Otvori original“ otvaraju se u vašem podrazumevan
 - **GitHub** (raw.githubusercontent.com): it downloads the public source list, so feed fixes arrive without a new app version.
 - **Open-Meteo** (open-meteo.com), on Windows only, and only if you chose a city: it sends the city's coordinates to get the current temperature, and the city name while you search for it in settings.
 - **The AI summary service**, on Windows only, and only if you set it up yourself and ask for a summary: Google Gemini, Groq, OpenAI, DeepSeek or Anthropic Claude, with your own key. Only the headlines and first sentences of up to 30 articles from the current view are sent, never data about you. That request is governed by the chosen service's terms; the app explains how each service uses data. For example, Google may use text sent on its free tier to improve its products, and DeepSeek processes data on servers in China.
-- **Google Forms**, on Android only, and only when you suggest a new source or report a broken one yourself: what you typed (type of report, source name, address, country and your note) and the app version are sent. No data about you is sent, and the form does not collect email addresses.
+- **Google Forms**, only when you suggest a new source or report a broken one yourself: what you typed (type of report, source name, address, country and your note) and the app version are sent. No data about you is sent, and the form does not collect email addresses.
 
 **Android: background refresh and notifications**
 

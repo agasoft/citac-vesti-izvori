@@ -10,7 +10,7 @@
 - **Zemlja:** Srbija
 - **Imejl:** [agasoft@gmail.com](mailto:agasoft@gmail.com)
 
-Pišite nam za pitanja, greške, predloge novih izvora ili prijavu izvora koji ne radi. Iz Android aplikacije možete pisati i preko dugmeta „Pišite nam“ u kartici „O aplikaciji“.
+Pišite nam za pitanja, greške, predloge novih izvora ili prijavu izvora koji ne radi. Iz aplikacije možete i predložiti novi izvor ili prijaviti neispravan: na Windowsu dugmetom „Predloži ili prijavi izvor“, a na Androidu u kartici „Podešavanja“. Na Androidu možete pisati i preko dugmeta „Pišite nam“ u kartici „O aplikaciji“.
 
 Za sadržaj pojedinačnih vesti odgovoran je medij koji ih je objavio; njegov kontakt je na njegovom sajtu.
 
@@ -24,7 +24,7 @@ News Reader is a news aggregator: it does not publish its own news, it shows art
 - **Country:** Serbia
 - **Email:** [agasoft@gmail.com](mailto:agasoft@gmail.com)
 
-Write to us with questions, bug reports, suggestions for new sources or reports of broken ones. In the Android app you can also use the "Write to us" button on the About tab.
+Write to us with questions, bug reports, suggestions for new sources or reports of broken ones. You can also suggest a new source or report a broken one from the app: on Windows with the "Suggest or report a source" button, and on Android in the Settings tab. On Android you can also use the "Write to us" button on the About tab.
 
 The publisher of each article is responsible for its content; their contact details are on their website.
 
