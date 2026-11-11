@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "version": 2026111102,
+  "version": 2026111201,
   "countries": [
     {"id":"RS","name":"Srbija","genitive":"Srbije"},
     {"id":"HR","name":"Hrvatska","genitive":"Hrvatske"},
@@ -35,6 +35,7 @@
     {"id":"rs-rse","country":"RS","name":"Radio Slobodna Evropa","url":"https://www.slobodnaevropa.org/api/zototl-vomx-tpepomq"},
     {"id":"rs-rts","country":"RS","name":"RTS","url":"https://www.rts.rs/vesti/rss.html"},
     {"id":"rs-sportklub","country":"RS","name":"Sportklub","url":"https://sportklub.rs/feed/"},
+    {"id":"rs-tanjug","country":"RS","name":"Tanjug","url":"https://www.tanjug.rs/rss/najnovije"},
     {"id":"rs-telegraf","country":"RS","name":"Telegraf","url":"https://www.telegraf.rs/rss"},
     {"id":"rs-vreme","country":"RS","name":"Vreme","url":"https://vreme.com/feed/"},
     {"id":"hr-24sata","country":"HR","name":"24sata","url":"https://www.24sata.hr/feeds/aktualno.xml"},
