@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "version": 2026111101,
+  "version": 2026111102,
   "countries": [
     {"id":"RS","name":"Srbija","genitive":"Srbije"},
     {"id":"HR","name":"Hrvatska","genitive":"Hrvatske"},
@@ -13,6 +13,7 @@
     {"id":"rs-021","country":"RS","name":"021.rs","url":"https://www.021.rs/rss/all"},
     {"id":"rs-b92","country":"RS","name":"B92","url":"https://b92.net/feed/"},
     {"id":"rs-bbc","country":"RS","name":"BBC na srpskom","url":"https://feeds.bbci.co.uk/serbian/lat/rss.xml"},
+    {"id":"rs-beta","country":"RS","name":"Beta","url":"https://beta.rs/rss"},
     {"id":"rs-benchmark","country":"RS","name":"Benchmark","url":"https://benchmark.rs/feed/"},
     {"id":"rs-blic","country":"RS","name":"Blic","url":"https://www.blic.rs/rss/danasnje-vesti"},
     {"id":"rs-cenzolovka","country":"RS","name":"Cenzolovka","url":"https://www.cenzolovka.rs/feed/"},
