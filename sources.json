@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "version": 2026111201,
+  "version": 2026111202,
   "countries": [
     {"id":"RS","name":"Srbija","genitive":"Srbije"},
     {"id":"HR","name":"Hrvatska","genitive":"Hrvatske"},
@@ -19,6 +19,7 @@
     {"id":"rs-cenzolovka","country":"RS","name":"Cenzolovka","url":"https://www.cenzolovka.rs/feed/"},
     {"id":"rs-danas","country":"RS","name":"Danas","url":"https://www.danas.rs/feed/"},
     {"id":"rs-dw","country":"RS","name":"DW na srpskom","url":"https://rss.dw.com/xml/rss-ser-all"},
+    {"id":"rs-informer","country":"RS","name":"Informer","url":"https://informer.rs/rss/najnovije-vesti"},
     {"id":"rs-insajder","country":"RS","name":"Insajder","url":"https://insajder.net/feed"},
     {"id":"rs-juzne","country":"RS","name":"Južne vesti","url":"https://www.juznevesti.com/feed/"},
     {"id":"rs-krik","country":"RS","name":"KRIK","url":"https://www.krik.rs/feed/"},
@@ -35,6 +36,7 @@
     {"id":"rs-rse","country":"RS","name":"Radio Slobodna Evropa","url":"https://www.slobodnaevropa.org/api/zototl-vomx-tpepomq"},
     {"id":"rs-rts","country":"RS","name":"RTS","url":"https://www.rts.rs/vesti/rss.html"},
     {"id":"rs-sportklub","country":"RS","name":"Sportklub","url":"https://sportklub.rs/feed/"},
+    {"id":"rs-sputnik","country":"RS","name":"Sputnik Srbija","url":"https://lat.sputnikportal.rs/export/rss2/archive/index.xml"},
     {"id":"rs-tanjug","country":"RS","name":"Tanjug","url":"https://www.tanjug.rs/rss/najnovije"},
     {"id":"rs-telegraf","country":"RS","name":"Telegraf","url":"https://www.telegraf.rs/rss"},
     {"id":"rs-vreme","country":"RS","name":"Vreme","url":"https://vreme.com/feed/"},
