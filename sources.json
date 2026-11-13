@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "version": 2026111202,
+  "version": 2026111301,
   "countries": [
     {"id":"RS","name":"Srbija","genitive":"Srbije"},
     {"id":"HR","name":"Hrvatska","genitive":"Hrvatske"},
@@ -34,6 +34,7 @@
     {"id":"rs-politika","country":"RS","name":"Politika","url":"https://www.politika.rs/rss/"},
     {"id":"rs-radar","country":"RS","name":"Radar","url":"https://radar.nova.rs/feed/"},
     {"id":"rs-rse","country":"RS","name":"Radio Slobodna Evropa","url":"https://www.slobodnaevropa.org/api/zototl-vomx-tpepomq"},
+    {"id":"rs-recnaroda","country":"RS","name":"Reč naroda","url":"https://recnaroda.co.rs/feed/"},
     {"id":"rs-rts","country":"RS","name":"RTS","url":"https://www.rts.rs/vesti/rss.html"},
     {"id":"rs-sportklub","country":"RS","name":"Sportklub","url":"https://sportklub.rs/feed/"},
     {"id":"rs-sputnik","country":"RS","name":"Sputnik Srbija","url":"https://lat.sputnikportal.rs/export/rss2/archive/index.xml"},
@@ -53,6 +54,7 @@
     {"id":"hr-index-svijet","country":"HR","name":"Index.hr – Svijet","url":"https://www.index.hr/rss/vijesti-svijet"},
     {"id":"hr-index-zagreb","country":"HR","name":"Index.hr – Zagreb","url":"https://www.index.hr/rss/vijesti-zagreb"},
     {"id":"hr-jutarnji","country":"HR","name":"Jutarnji list","url":"https://www.jutarnji.hr/feed"},
+    {"id":"hr-likaonline","country":"HR","name":"Lika online","url":"https://www.lika-online.hr/feed/"},
     {"id":"hr-mixeta","country":"HR","name":"Mixeta","url":"https://mixeta.net/feed/"},
     {"id":"hr-n1","country":"HR","name":"N1 Hrvatska","url":"https://n1info.hr/feed/"},
     {"id":"hr-net","country":"HR","name":"Net.hr","url":"https://net.hr/najnovije/rss.xml"},
