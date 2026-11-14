@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "version": 2026111301,
+  "version": 2026111401,
   "countries": [
     {"id":"RS","name":"Srbija","genitive":"Srbije"},
     {"id":"HR","name":"Hrvatska","genitive":"Hrvatske"},
@@ -22,6 +22,7 @@
     {"id":"rs-informer","country":"RS","name":"Informer","url":"https://informer.rs/rss/najnovije-vesti"},
     {"id":"rs-insajder","country":"RS","name":"Insajder","url":"https://insajder.net/feed"},
     {"id":"rs-juzne","country":"RS","name":"Južne vesti","url":"https://www.juznevesti.com/feed/"},
+    {"id":"rs-kossev","country":"RS","name":"KoSSev","url":"https://kossev.info/feed/"},
     {"id":"rs-krik","country":"RS","name":"KRIK","url":"https://www.krik.rs/feed/"},
     {"id":"rs-kurir","country":"RS","name":"Kurir","url":"https://www.kurir.rs/rss"},
     {"id":"rs-masina","country":"RS","name":"Mašina","url":"https://www.masina.rs/feed/"},
@@ -63,6 +64,7 @@
     {"id":"hr-ravnododna","country":"HR","name":"Ravno do dna","url":"https://www.ravnododna.com/feed"},
     {"id":"hr-rockography","country":"HR","name":"Rockography","url":"https://www.rockography.com.hr/feed/"},
     {"id":"hr-slobodna","country":"HR","name":"Slobodna Dalmacija","url":"https://slobodnadalmacija.hr/feed"},
+    {"id":"hr-sportnet","country":"HR","name":"Sportnet","url":"https://sportnet.hr/rss/"},
     {"id":"hr-telegram","country":"HR","name":"Telegram","url":"https://www.telegram.hr/feed/"},
     {"id":"hr-tiflonova","country":"HR","name":"TifloNova","url":"https://tiflonova.hr/wp/?feed=rss2"},
     {"id":"hr-tportal","country":"HR","name":"tportal","url":"https://www.tportal.hr/rss-najnovije.xml"},
@@ -75,6 +77,7 @@
     {"id":"ba-istraga","country":"BA","name":"Istraga","url":"https://istraga.ba/feed/"},
     {"id":"ba-klix","country":"BA","name":"Klix","url":"https://www.klix.ba/rss"},
     {"id":"ba-n1","country":"BA","name":"N1 BiH","url":"https://n1info.ba/feed/"},
+    {"id":"ba-nezavisne","country":"BA","name":"Nezavisne novine","url":"https://www.nezavisne.com/rss/najnovije"},
     {"id":"ba-radiosarajevo","country":"BA","name":"Radio Sarajevo","url":"https://radiosarajevo.ba/rss"},
     {"id":"ba-rse","country":"BA","name":"Radio Slobodna Evropa","url":"https://www.slobodnaevropa.org/api/zqtovl-vomx-tpeiomr"},
     {"id":"ba-rtrs","country":"BA","name":"RTRS","url":"https://www.rtrs.tv/vijesti/rss.php"},
