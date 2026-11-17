@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "version": 2026111501,
+  "version": 2026111701,
   "countries": [
     {"id":"RS","name":"Srbija","genitive":"Srbije"},
     {"id":"HR","name":"Hrvatska","genitive":"Hrvatske"},
@@ -33,6 +33,7 @@
     {"id":"rs-nova","country":"RS","name":"Nova","url":"https://nova.rs/feed/"},
     {"id":"rs-novosti","country":"RS","name":"Novosti","url":"https://www.novosti.rs/rss/vesti"},
     {"id":"rs-nultatacka","country":"RS","name":"Nulta tačka","url":"https://nultatacka.rs/feed/"},
+    {"id":"rs-oruzjeonline","country":"RS","name":"Oružje online","url":"https://oruzjeonline.com/feed/"},
     {"id":"rs-politika","country":"RS","name":"Politika","url":"https://www.politika.rs/rss/"},
     {"id":"rs-pravda","country":"RS","name":"Pravda","url":"https://pravda.rs/rss.xml"},
     {"id":"rs-radar","country":"RS","name":"Radar","url":"https://radar.nova.rs/feed/"},
@@ -43,6 +44,7 @@
     {"id":"rs-sputnik","country":"RS","name":"Sputnik Srbija","url":"https://lat.sputnikportal.rs/export/rss2/archive/index.xml"},
     {"id":"rs-tanjug","country":"RS","name":"Tanjug","url":"https://www.tanjug.rs/rss/najnovije"},
     {"id":"rs-telegraf","country":"RS","name":"Telegraf","url":"https://www.telegraf.rs/rss"},
+    {"id":"rs-urbancity","country":"RS","name":"Urban City Radio","url":"https://urbancityradio.org/feed/"},
     {"id":"rs-vreme","country":"RS","name":"Vreme","url":"https://vreme.com/feed/"},
     {"id":"hr-24sata","country":"HR","name":"24sata","url":"https://www.24sata.hr/feeds/aktualno.xml"},
     {"id":"hr-barikada","country":"HR","name":"Barikada","url":"https://barikada.com/feed/"},
