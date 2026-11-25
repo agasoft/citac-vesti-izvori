@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "version": 2026111701,
+  "version": 2026112601,
   "countries": [
     {"id":"RS","name":"Srbija","genitive":"Srbije"},
     {"id":"HR","name":"Hrvatska","genitive":"Hrvatske"},
@@ -11,6 +11,7 @@
   ],
   "sources": [
     {"id":"rs-021","country":"RS","name":"021.rs","url":"https://www.021.rs/rss/all"},
+    {"id":"rs-artanima","country":"RS","name":"Art-Anima","url":"https://www.art-anima.com/feed/"},
     {"id":"rs-b92","country":"RS","name":"B92","url":"https://b92.net/feed/"},
     {"id":"rs-bbc","country":"RS","name":"BBC na srpskom","url":"https://feeds.bbci.co.uk/serbian/lat/rss.xml"},
     {"id":"rs-beta","country":"RS","name":"Beta","url":"https://beta.rs/rss"},
